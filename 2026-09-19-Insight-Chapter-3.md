@@ -1,5 +1,5 @@
 ---
-id: 2026-09-18-Insight-Chapter-2
+id: 2026-09-19-Insight-Chapter-3
 aliases:
   - "- BLINDSPOTS"
 tags:
